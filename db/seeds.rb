@@ -15,6 +15,6 @@ Product.create(
             out there. If you need to get working programs delivered fast,
             you should add Ruby to your toolbox.
         </p>},
-    image_url: 'ruby.jpg',
+    image_url: 'http://img1.douban.com/lpic/s11110132.jpg',
     price: 49.95
 )

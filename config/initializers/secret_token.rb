@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Depot::Application.config.secret_token = 'e023571f318a5449f7c2ae7448659e8449d03d1aa1bee8810446cd0c339b6778e6902c57e2473492ac3ca92ab79d04c5dd8eddefa8824a7b2e6bda234b507ed4'
+Depot::Application.config.secret_token = '5e266f0227b2da396f300740d4d78f45853253f40b1a4e86e6387d8add52018895f357176b59d873008b684cb40c2c9e31436622fd5a6ed1d5b3ada8e898e0a7'

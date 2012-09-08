@@ -1,18 +1,18 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 one:
-  title: MyString
+  title: ZyString
   description: MyText
   image_url: MyString
   price: 9.99
 
 two:
-  title: MyString
+  title: ZyString
   description: MyText
   image_url: MyString
   price: 9.99
 
 ruby:
-  title: AProgramming Ruby 1.9
+  title: Programming Ruby 1.9
   description:
     Ruby is the fastest growing and most exciting dynamic
     language out there. If you need to get working programs

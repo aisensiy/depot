@@ -10,7 +10,7 @@
 Product.delete_all
 
 Product.create(
-  title: 'Programming Ruby 1.9中',
+  title: 'Ruby 1.9',
   description:
       %{<p>
           Ruby is the fastest growing and most exciting dynamic language

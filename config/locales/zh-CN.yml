@@ -1,0 +1,43 @@
+zh-CN:
+  layouts:
+    application:
+      title: "书架"
+      home: "首页"
+      questions: "问题"
+      news: "新闻"
+      contact: "联系我们"
+  store:
+    index:
+      title: "你的产品列表"
+      add: "添加到购物车"
+  number:
+    currency:
+      format:
+        unit: "￥"
+        precision: 2
+        separator: "."
+        delimiter: ","
+        format: "%u%n"
+  orders:
+    new:
+      legend: "新的订单"
+  activerecord:
+    errors:
+      messages:
+        inclusion: "不在包含的选项内"
+        blank: "必填"
+    models:
+      order: "订单"
+    attributes:
+      order:
+        address: "地址"
+        name: "姓名"
+        email: "邮箱"
+        pay_type: "付款方式"
+  errors:
+    template:
+      body: "具体错误如下:"
+      header:
+        one: "%{model}中有一个错误"
+        other: "在%{model}中出现了%{count}个错误"
+

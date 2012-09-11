@@ -2,4 +2,26 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  hello: "Hello world"
+  layouts:
+    application:
+      title: "Pragmatic Bookshelf"
+      home: "Home"
+      questions: "Questions"
+      news: "News"
+      contact: "Contact"
+  store:
+    index:
+      title: "Your Pragmatic Catalog"
+      add: "Add to Cart"
+  number:
+    currency:
+      format:
+        unit: "$"
+        precision: 2
+        separator: "."
+        delimiter: ","
+        format: "%u%n"
+
+  orders:
+    new:
+      legend: "New Order"
